@@ -22,4 +22,4 @@
 
 ## 📜 Certifications
 - 🔄 Google Cybersecurity Certificate *(in progress)*
-- 
+  
