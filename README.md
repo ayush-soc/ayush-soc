@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ayush Mishra 👋
 
-<!--
-**ayush-soc/ayush-soc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year CSE @ KIIT
+🔐 Aspiring SOC Analyst | Blue Team Security
+📍 Rohtak, India
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I'm Learning
+- Linux command line & networking fundamentals
+- TryHackMe — Pre-Security & SOC Level 1 path
+- Splunk basics & log analysis
+- MITRE ATT&CK framework
+
+
+## 🛠️ Skills (Building)
+`Linux` `Python` `Wireshark` `Splunk` `MITRE ATT&CK` `Log Analysis`
+
+
+## 📁 Projects
+> Coming soon — building a home lab SIEM and phishing analyzer
+
+
+## 📜 Certifications
+- 🔄 Google Cybersecurity Certificate *(in progress)*
+- 
