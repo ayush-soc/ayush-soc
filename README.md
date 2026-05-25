@@ -23,7 +23,7 @@
       </ul>
     </td>
     <td width="45%" valign="top" align="center">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIwd3p3dmgycmV0ZHQzZHJ6cXg5dndqY2dkaTJidmt1OHBvNjkyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDOAnulpoQQss/giphy.gif" width="100%" alt="SOC Analyst Dashboard" style="border-radius: 6px;" />
+      <img src="https://techlyreb.com/wp-content/uploads/2021/04/Cyber-Security.gif" width="100%" alt="SOC Analyst Dashboard" style="border-radius: 6px;" />
     </td>
   </tr>
 </table>
