@@ -51,13 +51,6 @@ I am a **3rd Year Computer Science Engineering student at KIIT**, deeply passion
 
 - 🔄 **Google Cybersecurity Certificate** *(In Progress)*
 
----
-
-### 📊 GitHub Stats
-
-<picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush-soc&show_icons=true&theme=tokyonight&count_private=true" alt="Ayush's GitHub Stats" pointer-events="none" />
-</picture>
 
 ---
 
