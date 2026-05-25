@@ -17,8 +17,10 @@
 
 
 ## 📁 Projects
-> Coming soon — building a home lab SIEM and phishing analyzer
-
+- [PhishGuard](https://github.com/ayush-soc/PhishGuard) 
+  — Phishing email analyzer with VirusTotal + MITRE ATT&CK
+- [Network Scanner](https://github.com/ayush-soc/network-scanner) 
+  — Port scanner with risk analysis
 
 ## 📜 Certifications
 - 🔄 Google Cybersecurity Certificate *(in progress)*
