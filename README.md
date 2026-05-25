@@ -23,7 +23,7 @@
       </ul>
     </td>
     <td width="45%" valign="top" align="center">
-      <img src="https://techlyreb.com/wp-content/uploads/2021/04/Cyber-Security.gif" width="100%" alt="SOC Analyst Dashboard" style="border-radius: 6px;" />
+      <img src="https://media.giphy.com/media/Lex96k7oTzbS8/giphy.gif" width="100%" alt="Developer Coding Animation" style="border-radius: 6px;" />
     </td>
   </tr>
 </table>
