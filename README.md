@@ -38,6 +38,8 @@ I am a **3rd Year Computer Science Engineering student at KIIT**, deeply passion
 
 ### 📁 Projects
 
+* **Ghost Triage** 👻 🛠️ *(Active Development)*
+  * *An automated incident response and endpoint triage tool designed to rapidly collect volatile forensic data (processes, network states, logs) from potentially compromised hosts.*
 * **PhishGuard** 📨
   * *Phishing email analyzer integrated with VirusTotal API and mapped against the MITRE ATT&CK framework.*
 * **Network Scanner** 🔍
@@ -51,8 +53,15 @@ I am a **3rd Year Computer Science Engineering student at KIIT**, deeply passion
 
 ---
 
+### 📊 GitHub Stats
+
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush-soc&show_icons=true&theme=tokyonight&count_private=true" alt="Ayush's GitHub Stats" pointer-events="none" />
+</picture>
+
+---
 
 ### 🤝 Connect with Me
 
-- 💼 **LinkedIn:** www.linkedin.com/in/ayush-mishra-05197921b
-- 📧 **Email:** ayushvmc9@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/ayush-mishra-05197921b](https://www.linkedin.com/in/ayush-mishra-05197921b)
+- 📧 **Email:** [ayushvmc9@gmail.com](mailto:ayushvmc9@gmail.com)
