@@ -1,75 +1,52 @@
-# Hi there, I'm Ayush Mishra 👋
+# 📡 SYSTEM STATUS: ACTIVE // AYUSH MISHRA 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Role-Aspiring%20SOC%20Analyst-blue?style=flat-square" alt="Role">
-  <img src="https://img.shields.io/badge/Focus-Blue%20Team%20Security-red?style=flat-square" alt="Focus">
-  <img src="https://img.shields.io/badge/Location-Rohtak,%20India-pin?style=flat-square" alt="Location">
+  <img src="https://img.shields.io/badge/SecOps-Blue%20Team-red?style=for-the-badge&logo=target&logoColor=white" alt="Team">
+  <img src="https://img.shields.io/badge/Focus-Threat%20Triage-blue?style=for-the-badge&logo=splunk&logoColor=white" alt="Focus">
+  <img src="https://img.shields.io/badge/Origin-Rohtak,%20India-success?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
 </p>
 
 ---
 
-## 👋 Who am I (beyond buzzwords)
+## 🛠️ OPERATOR PROFILE: `ayush-soc`
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <p>I am a <strong>3rd Year Computer Science Engineering student at KIIT</strong>, deeply passionate about cybersecurity, threat detection, and incident response.</p>
-      <p>My focus is on understanding defensive security—not just running tools, but knowing exactly how attacks happen so I can build systems to detect and defeat them.</p>
-      <p>Right now, I'm less interested in "just scripting" and more focused on:</p>
-      <ul>
-        <li>🌐 Deep-diving into network packets & log behaviors</li>
-        <li>🧠 Automating incident response & endpoint forensics (like Ghost Triage)</li>
-        <li>🗺️ Mapping real-world adversary tactics to frameworks</li>
-      </ul>
-    </td>
-    <td width="45%" valign="top" align="center">
-      <img src="https://media.giphy.com/media/Lex96k7oTzbS8/giphy.gif" width="100%" alt="Developer Coding Animation" style="border-radius: 6px;" />
-    </td>
-  </tr>
-</table>
+```symtalk
+[CLASSIFICATION]: UNCLASSIFIED // FOR RECRUITER EYES ONLY
+[PERSONNEL]     : Ayush Mishra
+[ACADEMICS]     : 3rd Year Computer Science Engineering @ KIIT
+[OBJECTIVE]     : Transitioning into a SOC Analyst / Blue Team Security Role
 
----
+Mission Statement: I don't just patch vulnerabilities; I reverse-engineer the attacker's mindset. Deeply passionate about threat detection, behavioral log analysis, and building automated response tools to defeat adversaries in real time.
 
-### 🧠 What I'm Up To Right Now
+🔍 CURRENT THREAT HUNT / LEARNING PATH
+[NETWORKING & LINUX]  ████████████████████ 100% | Command Line & Core Fundamentals
+[TRYHACKME PATHS]     ████████████████░░░░  80% | Pre-Security & SOC Level 1
+[SIEM & LOGS]         ████████████░░░░░░░░  60% | Splunk Basics & Query Optimization
+[FRAMEWORKS]          ████████████████░░░░  80% | Adversary Mapping via MITRE ATT&CK
 
-- 🌐 Mastering **Linux command line** & core **networking fundamentals**.
-- 🏆 Grinding through **TryHackMe** (*Pre-Security* & *SOC Level 1* learning paths).
-- 🔍 Diving deep into **Splunk basics** and log analysis.
-- 🗺️ Mapping threat actor behaviors using the **MITRE ATT&CK framework**.
+🛡️ SKILLS & TELESCOPIC STACK
+💻 Core Scripting & Environments
+🚨 SIEM, Detection & Forensics
+📁 INCIDENT RESPONSE ARTIFACTS (PROJECTS)
+👻 Ghost Triage [ACTIVE DEVELOPMENT]
+Intent: Automated incident response tool designed to rapidly scrape and preserve volatile forensic data (active network states, processes, system logs) from target endpoints before it's wiped.
 
----
+Keywords: DFIR, Volatile Memory, Automation
 
-### 🛠️ Skills & Tools (Building)
+📨 PhishGuard
+Intent: Python-powered phishing analyzer that strips email headers, parses malicious URLs through the VirusTotal API, and maps tactical metadata dynamically to the MITRE ATT&CK matrix.
 
-#### 💻 Operating Systems & Languages
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Keywords: Threat Intel, Automation, API Integration
 
-#### 🛡️ Cybersecurity & Analysis Tools
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-FF6600?style=for-the-badge&logo=mitre&logoColor=white)
+🔍 Network Scanner
+Intent: Tactical custom-built port scanner that maps live network infrastructure and analyzes open vectors for basic risk scoring.
 
----
+Keywords: Socket Programming, Vulnerability Assessment
 
-### 📁 Projects
+📜 CERTIFICATIONS
+🔄 Google Cybersecurity Professional Certificate [PROGRESS: IN FLIGHT]
 
-* **Ghost Triage** 👻 🛠️ *(Active Development)*
-  * *An automated incident response and endpoint triage tool designed to rapidly collect volatile forensic data (processes, network states, logs) from potentially compromised hosts.*
-* **PhishGuard** 📨
-  * *Phishing email analyzer integrated with VirusTotal API and mapped against the MITRE ATT&CK framework.*
-* **Network Scanner** 🔍
-  * *A Python-based automated port scanner equipped with basic risk and vulnerability analysis.*
+📞 ESTABLISH COMMS
+💼 LinkedIn: linkedin.com/in/ayush-mishra-05197921b
 
----
-
-### 📜 Certifications & Progress
-
-- 🔄 **Google Cybersecurity Certificate** *(In Progress)*
-
----
-
-### 🤝 Connect with Me
-
-- 💼 **LinkedIn:** [linkedin.com/in/ayush-mishra-05197921b](https://www.linkedin.com/in/ayush-mishra-05197921b)
-- 📧 **Email:** [ayushvmc9@gmail.com](mailto:ayushvmc9@gmail.com)
+📧 Secure Mail: ayushvmc9@gmail.com
