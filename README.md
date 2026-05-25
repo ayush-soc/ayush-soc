@@ -52,13 +52,6 @@ I am a **3rd Year Computer Science Engineering student at KIIT**, deeply passion
 ---
 
 
-### 📊 GitHub Stats
-
-<picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush-soc&show_icons=true&theme=tokyonight&count_private=true" alt="Ayush's GitHub Stats" pointer-events="none" />
-</picture>
----
-
 ### 🤝 Connect with Me
 
 - 💼 **LinkedIn:** www.linkedin.com/in/ayush-mishra-05197921b
