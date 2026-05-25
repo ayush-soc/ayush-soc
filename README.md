@@ -12,18 +12,18 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
       <p>I am a <strong>3rd Year Computer Science Engineering student at KIIT</strong>, deeply passionate about cybersecurity, threat detection, and incident response.</p>
       <p>My focus is on understanding defensive security—not just running tools, but knowing exactly how attacks happen so I can build systems to detect and defeat them.</p>
       <p>Right now, I'm less interested in "just scripting" and more focused on:</p>
       <ul>
         <li>🌐 Deep-diving into network packets & log behaviors</li>
-        <li>🧠 Automating incident response & endpoint forensics</li>
+        <li>🧠 Automating incident response & endpoint forensics (like Ghost Triage)</li>
         <li>🗺️ Mapping real-world adversary tactics to frameworks</li>
       </ul>
     </td>
-    <td width="40%" valign="top" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0ZndzN3kyd3V1Nmd0am80cHhzMDRkcXBnNzNoYjd0aXN6bDBpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw1MZXg5Nms3b1R6YlM4/giphy.gif" width="100%" alt="Cyber Security Visual" style="border-radius: 8px;" />
+    <td width="45%" valign="top" align="center">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIwd3p3dmgycmV0ZHQzZHJ6cXg5dndqY2dkaTJidmt1OHBvNjkyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDOAnulpoQQss/giphy.gif" width="100%" alt="SOC Analyst Dashboard" style="border-radius: 6px;" />
     </td>
   </tr>
 </table>
@@ -66,7 +66,6 @@
 ### 📜 Certifications & Progress
 
 - 🔄 **Google Cybersecurity Certificate** *(In Progress)*
-
 
 ---
 
